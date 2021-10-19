@@ -6,4 +6,4 @@ In this repository, It have 2 files.
 2. modeling
   this file have some feature engineering and train a model.
   
- Thank you for your interested our repository.
+ Thank you for your interesting our repository.
